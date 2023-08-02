@@ -1,4 +1,4 @@
- import random
+import random
 
 scissors = '''
     _____
@@ -26,29 +26,20 @@ paper = '''
        _______)
 ---._________)
 '''
+imgages = [rock, paper, scissors]
 
 # user input
 choice = int(input("What do you choose: 0 for rock, 1 for scissors, and 2 for paper.\n"))
-print("Your choice:")
-if choice == 0:
-    print(rock)
-elif choice == 1:
-    print(scissors)
-elif choice == 2:
-    print(paper)
-else:
+if choice > 2:
     print("Please pick a number 0, 1, or 2.")
     exit()
+print("Your choice:")
+print(imgages[choice])
 
 # random choice
 computer_choice = random.randint(0, 2)
 print("Computer choice:")
-if computer_choice == 0:
-    print(rock)
-elif computer_choice == 1:
-    print(scissors)
-else:
-    print(paper)
+print(imgages[computer_choice])
 
 # who wins
 if choice == computer_choice: 
