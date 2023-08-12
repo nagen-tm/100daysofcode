@@ -18,6 +18,7 @@ python <SCRIPT.py>
 5. Password Generator
 6. Functions and while loops [challenge](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
 7. Hangman
+8. Caesar Cipher
 
 ## Intermediate 15-40
 
