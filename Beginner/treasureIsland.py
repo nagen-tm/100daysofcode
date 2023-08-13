@@ -1,3 +1,4 @@
+# Day 3
 print("Welcome to Treasure Island.\nYour mission is to find the treasure.")
 
 choice_one = input("You're at a cross road. Where do you want to go? Type 'left' or 'right'\n").lower()

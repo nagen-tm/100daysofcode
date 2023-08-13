@@ -1,3 +1,5 @@
+# Day 2
+
 # Create tip calculation for data types
 print("Welcome to the tip calculator.")
 total = input("What was the total bill?")

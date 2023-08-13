@@ -1,3 +1,4 @@
+# Day 7
 import random
 from os import system
 from hangman_art import logo, stages

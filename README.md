@@ -21,6 +21,7 @@ python <SCRIPT.py>
 8. Caesar Cipher 
 9. Secret Auction 
 10. Calculator
+11. Blackjack
 
 ## Intermediate 15-40
 
