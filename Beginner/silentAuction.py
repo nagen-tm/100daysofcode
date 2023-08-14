@@ -1,8 +1,8 @@
 # Day 9
 from os import system
-from art import logo
+from art import gavel_logo
 
-print(f"{logo}\nWelcome to the secret aution program.")
+print(f"{gavel_logo}\nWelcome to the secret aution program.")
 
 bidders = {}
 bid_complete = True

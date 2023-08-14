@@ -1,9 +1,9 @@
 # Day 8
 import string
-from art import logo
+from art import cipher_logo
 
 # logo/variables
-print(logo)
+print(cipher_logo)
 alphabet = string.ascii_lowercase
 rerun = True
 

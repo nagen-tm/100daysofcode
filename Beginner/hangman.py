@@ -1,7 +1,7 @@
 # Day 7
 import random
 from os import system
-from hangman_art import logo, stages
+from art import hangman_logo, stages
 
 # pick random word, set variables
 #TO DO: create a word list to import
@@ -15,7 +15,7 @@ end_of_game = False
 for letter in word_selection:
     display.append("_")
 
-print(logo)
+print(hangman_logo)
 
 # get input 
 while not end_of_game:
