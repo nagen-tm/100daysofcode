@@ -1,3 +1,4 @@
+# Day 1
 # Create simple variable solution for inputs
 print("Welcome to the Band Name Generator.")
 
