@@ -23,6 +23,7 @@ python <SCRIPT.py>
 10. Calculator
 11. Blackjack
 12. Number Guessing Game
+13. Debugging Course Exercises in the Coding Room 
 
 ## Intermediate 15-40
 
