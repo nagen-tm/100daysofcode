@@ -22,6 +22,7 @@ python <SCRIPT.py>
 9. Secret Auction 
 10. Calculator
 11. Blackjack
+12. Number Guessing Game
 
 ## Intermediate 15-40
 
