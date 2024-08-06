@@ -5,8 +5,13 @@ Follows 100 days of code [Udemy Course](https://www.udemy.com/course/100-days-of
 I set up [miniforge](https://github.com/conda-forge/miniforge) for python
 
 ```
-conda activate base 
+conda create -n NAME python=VERSION
+conda env remove NAME
+
+conda activate NAME
 python <SCRIPT.py>
+
+conda deactivate
 ```
 
 ## Beginner days 1-14
@@ -24,6 +29,7 @@ python <SCRIPT.py>
 11. Blackjack
 12. Number Guessing Game
 13. Debugging Course Exercises in the Coding Room 
+14. Higher Lower Game
 
 ## Intermediate 15-40
 
